@@ -9,7 +9,7 @@ What a bot/an AI will see:
 
 ![ExampleGif](https://firebasestorage.googleapis.com/v0/b/research-digests.firebasestorage.app/o/Other%2Fezgif-4bf4efefd376e0.gif?alt=media&token=ad2e863a-748d-44a2-bb37-dbaa3d09b380)
 
-Explanation: Information is only contained in the relative change between frames, not in individual frames, and is therefore not visible to current state of the art models from e.g. MidJourney, OpenAI, Google. On the contrary, the values are easily detectable by human perception. Extensive testing is currently in progress and will be published soon.
+Explanation: Information is only contained in the relative change between frames, not in individual frames, and is therefore not visible to current state of the art models from e.g. MidJourney, OpenAI, Google. In contrast, the values are easily detectable by human perception. Extensive testing is currently in progress and will be published soon.
 
 ## Please feel free to utilize one of the pre-rendered DOT-BI checks or generate your own.
 Acknowledgment would be highly appreciated:
