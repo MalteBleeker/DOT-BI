@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Bleeker
+    given-names: Malte  # Replace with actual first name
+  - family-names: Gotsch
+    given-names: Mauro  # Replace with actual first name
+  - family-names: Reinecke
+    given-names: Sven  # Replace with actual first name
+title: "Dynamic Optical Test for Bot Identification (DOT-BI): A simple check to identify bots in surveys and online processes."
+version: 1.0.0  # Adjust if there's a specific version
+date-released: 2025-02-11  # Adjust to actual release date
