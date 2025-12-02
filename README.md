@@ -14,7 +14,7 @@ Explanation: Information is only contained in the relative change between frames
 ## Please feel free to utilize one of the pre-rendered DOT-BI checks or generate your own.
 Acknowledgment would be highly appreciated:
 
-> **Bleeker, Gotsch, Reinecke (2025).** *Dynamic Optical Test for Bot Identification (DOT-BI): A simple check to identify bots in surveys and online processes. https://github.com/MalteBleeker/DOT-BI.*
+> **Bleeker & Gotsch (2025).** *Dynamic Optical Test for Bot Identification (DOT-BI): A simple check to identify bots in surveys and online processes. https://github.com/MalteBleeker/DOT-BI.*
 
 ## Use an existing DOT-BI Check:
 1. In the folder **"Pregenerated Checks"** are hundreds of variants with different values to be identified.
